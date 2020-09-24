@@ -1,6 +1,6 @@
 {
   "name": "release-please-403-example",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/lancedikson/release-please-403-example"
